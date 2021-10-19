@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @InesCardinot
-- 👀 I’m interested em Data Sciense e Cyber Security
-g- 💞️ I’m looking to collaborate on  projetos
-- 📫 How to reach me  inescgcardinot@gmail.com
+- Busco colaborar em projetos
+- E me desenvolver como Dev!
 
 <!---
 InesCardinot/InesCardinot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
