@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @InesCardinot
-- Busco colaborar em projetos
-- E me desenvolver como DevSecOps!
+- Busco colaborar em projetos para me desenvolver como programadora e na área de segurança da informação.
 
 <!---
 InesCardinot/InesCardinot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
