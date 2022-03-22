@@ -1,3 +1,5 @@
+- Cybersecurity and Cyberdefense researcher | SecDevOps intern | JS teacher
+-
 - 👋 Hi, I’m @InesCardinot
 - Busco colaborar em projetos para me desenvolver como programadora e na área de segurança da informação.
 
