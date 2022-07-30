@@ -11,11 +11,11 @@
 
 💼 &nbsp; Working with:
 <p>
-  - Cybersecurity and Cyberdefense researcher at <a href="https://www.marinha.mil.br/egn"/>Brazil’s Navy</a>
+- Cybersecurity and Cyberdefense researcher at <a href="https://www.marinha.mil.br/egn"/>Brazil’s Navy</a>
 </p><p>
-  - JS/HTML/CSS & React Native teacher at <a href="https://www.byjusfutureschool.com"/>Byju's Future School</a>
+- JS/HTML/CSS & React Native teacher at <a href="https://www.byjusfutureschool.com"/>Byju's Future School</a>
 </p><p>
-  - Cybersecurity Threat Intelligence intern at <a href="https://www.globo.com/">Globo</a>
+- Cybersecurity Threat Intelligence intern at <a href="https://www.globo.com/">Globo</a>
 </p>
 
 
@@ -60,5 +60,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Ines Cardinot](https://img.shields.io/badge/inescardinot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inescardinot/)](https://www.linkedin.com/in/inescardinot/)
-[![Gmail inescgcardinot@gmail.com](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inescgcardinot@gmail.com)](mailto:inescgcardinot@gmail.com)
+[![Gmail inescgcardinot@gmail.com](https://img.shields.io/badge/-inescgcardinot@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inescgcardinot@gmail.com)](mailto:inescgcardinot@gmail.com)
 [![GitHub Ines Cardinot]( https://img.shields.io/github/followers/InesCardinot?label=follow&style=social)]([@InesCardinot](https://github.com/InesCardinot/InesCardinot))
