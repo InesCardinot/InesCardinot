@@ -15,7 +15,7 @@
 </p><p>
 - JS/HTML/CSS & React Native teacher at <a href="https://www.byjusfutureschool.com"/>Byju's Future School</a>
 </p><p>
-- Cybersecurity Threat Intelligence intern <a href="https://www.globo.com/">Globo</a>
+- Cybersecurity Threat Intelligence intern at <a href="https://www.globo.com/">Globo</a>
 </p>
 
 
@@ -47,15 +47,12 @@
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  
 
 <br/>
 
 <a href="https://github.com/InesCardinot">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true](https://github-readme-stats.vercel.app/api?username=InesCardinot&theme=dracula&show_icons=true)" />
 </a>
 
 <br/>
