@@ -52,7 +52,7 @@
 <br/>
 
 <a href="https://github.com/InesCardinot">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=InesCardinot&theme=dracula&show_icons=true](https://github-readme-stats.vercel.app/api?username=InesCardinot&theme=dracula&show_icons=true)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=InesCardinot&theme=dracula&show_icons=true"/>
 </a>
 
 <br/>
