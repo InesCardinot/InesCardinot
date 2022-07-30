@@ -52,7 +52,7 @@
 <br/>
 
 <a href="https://github.com/InesCardinot">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=InesCardinot&theme=dracula&show_icons=true](https://github-readme-stats.vercel.app/api?username=InesCardinot&theme=dracula&show_icons=true)" />
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=InesCardinot&theme=dracula&show_icons=true](https://github-readme-stats.vercel.app/api?username=InesCardinot&theme=dracula&show_icons=true)"/>
 </a>
 
 <br/>
@@ -61,4 +61,4 @@
 
 [![Linkedin: Ines Cardinot](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail inescgcardinot@gmail.com](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inescgcardinot@gmail.com)](mailto:inescgcardinot@gmail.com)
-[![GitHub Ines Cardinot]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)]([@InesCardinot](https://github.com/InesCardinot/InesCardinot))
+[![GitHub Ines Cardinot]( https://img.shields.io/github/followers/InesCardinot?label=follow&style=social)]([@InesCardinot](https://github.com/InesCardinot/InesCardinot))
