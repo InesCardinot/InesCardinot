@@ -59,6 +59,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Ines Cardinot](https://img.shields.io/badge/-inescardinot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inescardinot/](https://www.linkedin.com/in/inescardinot/)
+[![Linkedin: Ines Cardinot](https://img.shields.io/badge/inescardinot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inescardinot/](https://www.linkedin.com/in/inescardinot/)
 [![Gmail inescgcardinot@gmail.com](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inescgcardinot@gmail.com)](mailto:inescgcardinot@gmail.com)
 [![GitHub Ines Cardinot]( https://img.shields.io/github/followers/InesCardinot?label=follow&style=social)]([@InesCardinot](https://github.com/InesCardinot/InesCardinot))
