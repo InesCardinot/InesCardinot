@@ -11,11 +11,11 @@
 
 💼 &nbsp; Working with:
 <p>
-- Cybersecurity and Cyberdefense researcher at <a href="https://www.marinha.mil.br/egn"/>Brazil’s Navy</a>
+  - Cybersecurity and Cyberdefense researcher at <a href="https://www.marinha.mil.br/egn"/>Brazil’s Navy</a>
 </p><p>
-- JS/HTML/CSS & React Native teacher at <a href="https://www.byjusfutureschool.com"/>Byju's Future School</a>
+  - JS/HTML/CSS & React Native teacher at <a href="https://www.byjusfutureschool.com"/>Byju's Future School</a>
 </p><p>
-- Cybersecurity Threat Intelligence intern at <a href="https://www.globo.com/">Globo</a>
+  - Cybersecurity Threat Intelligence intern at <a href="https://www.globo.com/">Globo</a>
 </p>
 
 
