@@ -6,6 +6,9 @@
 - 🤔 &nbsp; Exploring new tecnologies and programming software's solutions.
 - 🎓 &nbsp; Studying **CyberSecurity** at <a href="https://www.laureate.net/pt/school/centro-universitario-ibmr-ibmr/">Laureate Universities - IBMR/RJ</a>.
 - 🌱 &nbsp; Learning more about Malwares and network infrastructure.
+
+---
+
 - 💼 &nbsp; Working with:
 <p>
 - Cybersecurity and Cyberdefense researcher at <a href="https://www.marinha.mil.br/egn"/>Brazil’s Navy</a>
@@ -59,6 +62,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: Ines Cardinot](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail inescgcardinot@gmail.com](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inescgcardinot@gmail.com)](mailto:inescgcardinot@gmail.com)
+[![GitHub Ines Cardinot]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/InesCardinot/InesCardinot))
