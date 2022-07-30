@@ -1,21 +1,19 @@
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :woman: &nbsp;About me</h3>
 
-👋 Hi, I’m @InesCardinot
+👋 Hi,I'm @InesCardinot
 
+
+- 🤔 &nbsp; Exploring new tecnologies and programming software's solutions.
+- 🎓 &nbsp; Studying **CyberSecurity** at <a href="https://www.laureate.net/pt/school/centro-universitario-ibmr-ibmr/">Laureate Universities - IBMR/RJ</a>.
+- 🌱 &nbsp; Learning more about Malwares and network infrastructure.
+- 💼 &nbsp; Working with:
 <p align="left">
-- Cybersecurity and Cyberdefense researcher 
-- JS/HTML/CSS & React Native teacher
-- Cybersecurity Threat Intelligence intern
+- Cybersecurity and Cyberdefense researcher at <a href="https://www.marinha.mil.br/egn"/>Brazil’s Navy</a>
+- JS/HTML/CSS & React Native teacher at <a href="https://www.byjusfutureschool.com"/>Byju's Future School</a>
+- Cybersecurity Threat Intelligence intern <a href="https://www.globo.com/">Globo</a>
 </p>
 
-<p align="left">
-🦄 Languages: 
-<strong>
-- Front: JS/HTML/CSS & 
-- Mobile: React Native
-- Back: Python
-</strong>
-</p>
+
 
 <p align="left">
   💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
@@ -34,22 +32,12 @@
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
-
 ## **Linguagens e Ferramentas:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<!--- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code> --->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<!--- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> --->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -59,11 +47,6 @@
 
 ---
 
-
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
