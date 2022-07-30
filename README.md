@@ -7,74 +7,39 @@
 - 🎓 &nbsp; Studying **CyberSecurity** at <a href="https://www.laureate.net/pt/school/centro-universitario-ibmr-ibmr/">Laureate Universities - IBMR/RJ</a>.
 - 🌱 &nbsp; Learning more about Malwares and network infrastructure.
 - 💼 &nbsp; Working with:
-<p align="left">
+<p>
 - Cybersecurity and Cyberdefense researcher at <a href="https://www.marinha.mil.br/egn"/>Brazil’s Navy</a>
+</p><p>
 - JS/HTML/CSS & React Native teacher at <a href="https://www.byjusfutureschool.com"/>Byju's Future School</a>
+</p><p>
 - Cybersecurity Threat Intelligence intern <a href="https://www.globo.com/">Globo</a>
 </p>
 
 
-
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
-<p align="left">
-<strong>
-💌 Here you can type me a message: ⤵️
-</strong>
-</p>
-
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-## **Linguagens e Ferramentas:**  
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<!--- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code> --->
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<!--- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> --->
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
 ---
 
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
 **Aplicações e Dados**
 
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utilidades**
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
 **Ferramentas de Desenvolvimento**
 
