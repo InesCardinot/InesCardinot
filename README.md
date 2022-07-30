@@ -61,4 +61,4 @@
 
 [![Linkedin: Ines Cardinot](https://img.shields.io/badge/inescardinot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inescardinot/)](https://www.linkedin.com/in/inescardinot/)
 [![Gmail inescgcardinot@gmail.com](https://img.shields.io/badge/-inescgcardinot@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inescgcardinot@gmail.com)](mailto:inescgcardinot@gmail.com)
-[![GitHub Ines Cardinot]( https://img.shields.io/github/followers/InesCardinot?label=follow&style=social)](https://github.com/InesCardinot/InesCardinot)
+[![GitHub Ines Cardinot]( https://img.shields.io/github/followers/InesCardinot?label=follow&style=social)](https://github.com/InesCardinot)
