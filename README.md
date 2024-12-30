@@ -3,9 +3,9 @@
 👋 Hi,I'm @InesCardinot
 
 
-- 🤔 &nbsp; Exploring new tecnologies and programming software's solutions.
+- 🤔 &nbsp; Exploring new tecnologies and programming software's solutions for a safaty place to connect.
 - 🎓 &nbsp; Master of **CyberSecurity** at <a href="https://www2.fab.mil.br/unifa/">AirForce University - UNIFA</a>.
-- 🌱 &nbsp; Learning more about Malwares and network infrastructure.
+- 🌱 &nbsp; Explore Malwares and code vulnerabilities.
 
 ---
 
@@ -13,7 +13,7 @@
 <p>
 - Cybersecurity and Cyberdefense researcher at <a href="https://www.marinha.mil.br/egn"/>Brazil’s Navy</a>
 </p><p>
-- JS/HTML/CSS & Node/React/React Native  & Python teacher at <a href="https://www.byjusfutureschool.com"/>Byju's Future School</a>
+- JS/HTML/CSS & Node/React/React Native & Python teacher at <a href="https://www.byjusfutureschool.com"/>Byju's Future School</a>
 </p><p>
 - Cybersecurity Threat Intelligence intern at <a href="https://www.globo.com/">Globo</a>
 </p>
