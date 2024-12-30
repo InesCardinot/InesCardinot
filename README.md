@@ -4,7 +4,7 @@
 
 
 - 🤔 &nbsp; Exploring new tecnologies and programming software's solutions.
-- 🎓 &nbsp; Studying **CyberSecurity** at <a href="https://www.laureate.net/pt/school/centro-universitario-ibmr-ibmr/">Laureate Universities - IBMR/RJ</a>.
+- 🎓 &nbsp; Master of **CyberSecurity** at <a href="https://www2.fab.mil.br/unifa/">AirForce University - UNIFA</a>.
 - 🌱 &nbsp; Learning more about Malwares and network infrastructure.
 
 ---
