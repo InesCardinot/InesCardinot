@@ -13,9 +13,11 @@
 <p>
 - Cybersecurity and Cyberdefense researcher at <a href="https://www.marinha.mil.br/egn"/>Brazil’s Navy</a>
 </p><p>
+- Cybersecurity and Cyberdefense researcher at <a href="https://www2.fab.mil.br/unifa/"/>Brazil’s Airforce</a>
+</p><p>
 - JS/HTML/CSS & Node/React/React Native & Python teacher at <a href="https://www.byjusfutureschool.com"/>Byju's Future School</a>
 </p><p>
-- Cybersecurity Threat Intelligence intern at <a href="https://www.globo.com/">Globo</a>
+- Cybersecurity Threat Intelligence resercher at <a href="https://www.gov.br/defesa/pt-br/">Defense Ministry</a>
 </p>
 
 
